@@ -1,0 +1,7 @@
+data/org.scroker.HandyTestLayout.desktop.in
+data/org.scroker.HandyTestLayout.appdata.xml.in
+data/org.scroker.HandyTestLayout.gschema.xml
+src/window.ui
+src/main.py
+src/window.py
+
